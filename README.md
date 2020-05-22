@@ -1,2 +1,7 @@
-# Nova Project
-Nova is a modular system for automation. It can be used e.g. for a weather station with a Raspberry Pi.
+<h1 align="center">Nova Project</h1>
+
+Here you will find general information and graphics about the nova project.
+
+<br>
+
+<img width="100px" height="100px" src="logo/logo_transparent.png">
